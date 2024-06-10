@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\SimpleToDoWebApp.Frontend.csproj": {}
+    "c:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\SimpleToDoWebApp.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\SimpleToDoWebApp.Frontend.csproj": {
+    "c:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\SimpleToDoWebApp.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\SimpleToDoWebApp.Frontend.csproj",
+        "projectUniqueName": "c:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\SimpleToDoWebApp.Frontend.csproj",
         "projectName": "SimpleToDoWebApp.Frontend",
-        "projectPath": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\SimpleToDoWebApp.Frontend.csproj",
+        "projectPath": "c:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\SimpleToDoWebApp.Frontend.csproj",
         "packagesPath": "C:\\Users\\MAMVOUF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\",
+        "outputPath": "c:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,7 +1,37 @@
 ﻿@page "/"
 
-<PageTitle>Home</PageTitle>
+<PageTitle>Current Tasks</PageTitle>
 
-<h1>Hello, Blazor!</h1>
+<h1>Current tasks</h1>
 
-Welcome to my new app.
+@* List of 5 sample tasks in an HTML table *@
+<table class="table">
+    <thead>
+        <tr>
+            <th>Task</th>
+            <th>Due date</th>
+            <th>Priority</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var task in tasks)
+        {
+            <tr>
+                <td>@task.Name</td>
+                <td>@task.DueDate</td>
+                <td>@task.Priority</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    private List<ToDoItem> tasks = new List<ToDoItem>
+    {
+        new ToDoItem { Name = "Task 1", DueDate = DateTime.Now, Priority = 1 },
+        new ToDoItem { Name = "Task 2", DueDate = DateTime.Now, Priority = 2 },
+        new ToDoItem { Name = "Task 3", DueDate = DateTime.Now, Priority = 3 },
+        new ToDoItem { Name = "Task 4", DueDate = DateTime.Now, Priority = 4 },
+        new ToDoItem { Name = "Task 5", DueDate = DateTime.Now, Priority = 5 }
+    };
+}

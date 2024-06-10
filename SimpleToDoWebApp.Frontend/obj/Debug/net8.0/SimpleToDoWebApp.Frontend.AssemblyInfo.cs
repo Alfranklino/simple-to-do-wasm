@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleToDoWebApp.Frontend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+165b9d2b9080224d7c487d62c190d850c1292013")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42950148b683c9a1af7fc326f74f292eef60ad15")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleToDoWebApp.Frontend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleToDoWebApp.Frontend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
