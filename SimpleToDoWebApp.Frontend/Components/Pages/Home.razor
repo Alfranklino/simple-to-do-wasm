@@ -1,37 +1,47 @@
 ﻿@page "/"
+@using SimpleToDoWebApp.Frontend.Clients
 
 <PageTitle>Current Tasks</PageTitle>
 
 <h1>Current tasks</h1>
 
-@* List of 5 sample tasks in an HTML table *@
-<table class="table">
-    <thead>
-        <tr>
-            <th>Task</th>
-            <th>Due date</th>
-            <th>Priority</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var task in tasks)
-        {
+@if (tasks.Count == 0)
+{
+
+    <div class="alert alert-warning" role="alert">
+        No tasks found.
+    </div>
+}
+else
+{
+    <table class="table table-striped table-bordered table-hover">
+        <thead class="table-dark">
             <tr>
-                <td>@task.Name</td>
-                <td>@task.DueDate</td>
-                <td>@task.Priority</td>
+                <th class="text-center">Task</th>
+                <th class="text-center">Due date</th>
+                <th class="text-center">Priority</th>
             </tr>
-        }
-    </tbody>
-</table>
+        </thead>
+        <tbody>
+            @foreach (var task in tasks)
+            {
+                <tr>
+                    <td>@task.Name</td>
+                    <td>@task.DueDate</td>
+                    <td class="text-center">@task.Priority</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
 
 @code {
-    private List<ToDoItem> tasks = new List<ToDoItem>
+    private List<ToDoItem> tasks = new List<ToDoItem>();
+    private ToDosClient toDosClient = new();
+
+    protected override void OnInitialized()
     {
-        new ToDoItem { Name = "Task 1", DueDate = DateTime.Now, Priority = 1 },
-        new ToDoItem { Name = "Task 2", DueDate = DateTime.Now, Priority = 2 },
-        new ToDoItem { Name = "Task 3", DueDate = DateTime.Now, Priority = 3 },
-        new ToDoItem { Name = "Task 4", DueDate = DateTime.Now, Priority = 4 },
-        new ToDoItem { Name = "Task 5", DueDate = DateTime.Now, Priority = 5 }
-    };
+        tasks = toDosClient.GetTasks();
+    }
 }

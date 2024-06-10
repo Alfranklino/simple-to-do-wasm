@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OTtbPaNUgp/kOiiZIt6Qlh7kNY7XbHGsfdoOiXh0NR4=",
+  "Hash": "NNTW5yda4PKsRbQ8AF3KQcYfM5I0QwgSkqPWDDCu0sc=",
   "Source": "SimpleToDoWebApp.Frontend",
   "BasePath": "_content/SimpleToDoWebApp.Frontend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SimpleToDoWebApp.Frontend\\wwwroot",
       "Source": "SimpleToDoWebApp.Frontend",
-      "ContentRoot": "c:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\wwwroot\\",
       "BasePath": "_content/SimpleToDoWebApp.Frontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SimpleToDoWebApp.Frontend.styles.css",
+      "Identity": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SimpleToDoWebApp.Frontend.styles.css",
       "SourceId": "SimpleToDoWebApp.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SimpleToDoWebApp.Frontend",
       "RelativePath": "SimpleToDoWebApp.Frontend.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SimpleToDoWebApp.Frontend.styles.css"
+      "OriginalItemSpec": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SimpleToDoWebApp.Frontend.styles.css"
     },
     {
-      "Identity": "c:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleToDoWebApp.Frontend.bundle.scp.css",
+      "Identity": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleToDoWebApp.Frontend.bundle.scp.css",
       "SourceId": "SimpleToDoWebApp.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SimpleToDoWebApp.Frontend",
       "RelativePath": "SimpleToDoWebApp.Frontend.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleToDoWebApp.Frontend.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleToDoWebApp.Frontend.bundle.scp.css"
     },
     {
-      "Identity": "c:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\wwwroot\\app.css",
       "SourceId": "SimpleToDoWebApp.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\wwwroot\\",
       "BasePath": "_content/SimpleToDoWebApp.Frontend",
       "RelativePath": "app.css",
       "AssetKind": "All",
