@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleToDoWebApp.Frontend.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SimpleToDoWebApp.Frontend.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimpleToDoWebApp.Frontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimpleToDoWebApp.Frontend.props",
+      "PackagePath": "build\\SimpleToDoWebApp.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimpleToDoWebApp.Frontend.props",
+      "PackagePath": "buildMultiTargeting\\SimpleToDoWebApp.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimpleToDoWebApp.Frontend.props",
+      "PackagePath": "buildTransitive\\SimpleToDoWebApp.Frontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
