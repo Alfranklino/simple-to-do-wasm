@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "NNTW5yda4PKsRbQ8AF3KQcYfM5I0QwgSkqPWDDCu0sc=",
+  "Source": "SimpleToDoWebApp.Frontend",
+  "BasePath": "_content/SimpleToDoWebApp.Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SimpleToDoWebApp.Frontend\\wwwroot",
+      "Source": "SimpleToDoWebApp.Frontend",
+      "ContentRoot": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\wwwroot\\",
+      "BasePath": "_content/SimpleToDoWebApp.Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SimpleToDoWebApp.Frontend.styles.css",
+      "SourceId": "SimpleToDoWebApp.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/SimpleToDoWebApp.Frontend",
+      "RelativePath": "SimpleToDoWebApp.Frontend.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SimpleToDoWebApp.Frontend.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleToDoWebApp.Frontend.bundle.scp.css",
+      "SourceId": "SimpleToDoWebApp.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/SimpleToDoWebApp.Frontend",
+      "RelativePath": "SimpleToDoWebApp.Frontend.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleToDoWebApp.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\wwwroot\\app.css",
+      "SourceId": "SimpleToDoWebApp.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MAMVOUF\\OneDrive - Government of Ontario\\Documents\\Franklin\\DevProjects\\simple-to-do-wasm\\SimpleToDoWebApp.Frontend\\wwwroot\\",
+      "BasePath": "_content/SimpleToDoWebApp.Frontend",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}

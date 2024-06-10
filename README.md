@@ -2,7 +2,7 @@
 
 ## Overview
 
-Simple TODO is a minimalistic and intuitive task management application built using Blazor WebAssembly. The app allows users to efficiently manage their daily tasks, providing a simple interface for creating, editing, and deleting tasks.
+Simple TODO is a minimalistic and intuitive task management application built using Blazor WebApp. The app allows users to efficiently manage their daily tasks, providing a simple interface for creating, editing, and deleting tasks.
 
 ## Features
 
